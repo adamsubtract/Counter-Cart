@@ -1,3 +1,8 @@
+![App picture](https://imgur.com/iE2Jcxu.png)
+
+## [Live Demo Here](https://adamsubtract.github.io/Counter-Cart/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
