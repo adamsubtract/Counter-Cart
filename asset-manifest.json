@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Counter-Cart/static/css/main.584f321a.chunk.css",
+    "main.js": "/Counter-Cart/static/js/main.aa3344d6.chunk.js",
+    "main.js.map": "/Counter-Cart/static/js/main.aa3344d6.chunk.js.map",
+    "runtime~main.js": "/Counter-Cart/static/js/runtime~main.6dbf9519.js",
+    "runtime~main.js.map": "/Counter-Cart/static/js/runtime~main.6dbf9519.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Counter-Cart/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.5b44faae.chunk.js": "/Counter-Cart/static/js/2.5b44faae.chunk.js",
+    "static/js/2.5b44faae.chunk.js.map": "/Counter-Cart/static/js/2.5b44faae.chunk.js.map",
+    "index.html": "/Counter-Cart/index.html",
+    "precache-manifest.96f4c4bf99bb758ce26e87e3e1bc9ecf.js": "/Counter-Cart/precache-manifest.96f4c4bf99bb758ce26e87e3e1bc9ecf.js",
+    "service-worker.js": "/Counter-Cart/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Counter-Cart/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.584f321a.chunk.css.map": "/Counter-Cart/static/css/main.584f321a.chunk.css.map"
+  }
+}
